@@ -13,7 +13,7 @@ ext: github:cemheren/quicksheet-weather
 
 Once loaded, type in another cell:
 ```
-wthr: 98112,2,7
+wthr: Seattle,2,7
 ```
 
 This displays a 2-column × 7-row weather forecast below the cell.
