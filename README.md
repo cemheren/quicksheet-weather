@@ -6,7 +6,7 @@ A demo extension for [QuickSheet](https://github.com/cemheren/QuickSheet) that d
 
 In any QuickSheet cell, type:
 ```
-ext: github:cemheren/quicksheet-weather
+ext: github:Deskworks/quicksheet-weather
 ```
 
 ## Usage
